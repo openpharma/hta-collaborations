@@ -1,0 +1,22 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "HTA Collaborations"
+  #author: "Jane Doe"
+  date: "12/5/2022"
+  chapters:
+    - index.qmd
+    #- intro.qmd
+    - meetings.qmd
+
+format:
+  html:
+    theme: cosmo
+
+execute:
+  freeze: auto
+
+editor: source
+
