@@ -1,0 +1,7 @@
+# Purpose {.unnumbered}
+
+This repository is to track discussions around collaboration to support 
+Health Technology Assessment (HTA) reporting done using RW and clinical data 
+by pharma companies.
+
+The intent is not to host code in this repository.
