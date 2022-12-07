@@ -21,9 +21,9 @@ This meeting was hosted in person at Roche, Basel.
 ## Agenda
 
 * 9am: Introductions 
-* ~9.20: Roche shares existing/proposed codebases
-* ~9.40: Merck shares existing/proposed codebases
-* 10am: Jamboard session to capture internal ongoing work and codebase gaps
+* ~9.40: Roche shares existing/proposed codebases
+* ~10am: Merck shares existing/proposed codebases
+* 11am: Jamboard session to capture internal ongoing work and codebase gaps
 * 10:30am: Bio-break
 * 10:45-12: Finilise projects to follow through on, and project specific steps to take
 
