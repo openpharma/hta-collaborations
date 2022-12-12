@@ -18,7 +18,7 @@
     "href": "meetings.html#notes",
     "title": "Meetings",
     "section": "Notes",
-    "text": "Notes"
+    "text": "Notes\nAMNOG and EU HTA joint clinical assessment in 2025\n\nrequirements from AMNOG are detailed and specific, meaning differences between companies can be minimised\nboth Roche and Merck extract data into an internal ‘analysis results dataset’ (Roche from ADaMs and Merck from a source derived from ADaMs)\nin an ideal world we could derive on demand from ADaM, but safer middle ground is to first work on the ARD model to remove risk of not being able to repoduce due to mismatch on method and data snapshot\nwould the CDISC ARD provide what’s needed as a common data model between companies? If so, an app could also be co-created for constructing reports.\n\nHE models\n\nCommon hope to move from VBA macro based excel, to R/Shiny to generate static excel docs\n\nEQ-5D\n\nOverlap in potential to collaborate on implementation of tariffs in R to prevent duplication\n\nMethods\n\nAgreement to apply to setup workstream under ASA WG for HTA relevant methods gaps\nDiscussed were flexsurv and maic extensions being common between companies\nBayesian curve extrapolation using spline incorporating (there is literature):\n\nGeneral population for comparator\nConstraint prior\nTreatment arm and comparator should converge\n\nDownstream is presenting these methods to users (e.g. Roche’s TTLA app for RWD, NICE EHDEN shiny app for curve extrapolation)"
   },
   {
     "objectID": "meetings.html#actions",
