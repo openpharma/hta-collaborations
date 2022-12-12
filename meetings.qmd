@@ -31,4 +31,31 @@ This meeting was hosted in person at Roche, Basel.
 
 ## Notes  
 
+AMNOG and  EU HTA joint clinical assessment in 2025
+
+* requirements from AMNOG are detailed and specific, meaning differences between companies can be minimised
+* both Roche and Merck extract data into an internal 'analysis results dataset' (Roche from ADaMs and Merck from a source derived from ADaMs)
+* in an ideal world we could derive on demand from ADaM, but safer middle ground is to first work on the ARD model to remove risk of not being able to repoduce due to mismatch on method and data snapshot
+* would the CDISC ARD provide what's needed as a common data model between companies? If so, an app could also be co-created for constructing reports.
+
+HE models
+
+* Common hope to move from VBA macro based excel, to R/Shiny to generate static excel docs
+
+EQ-5D
+
+* Overlap in potential to collaborate on implementation of tariffs in R to prevent duplication
+
+
+Methods
+
+* Agreement to apply to setup workstream under ASA WG for HTA relevant methods gaps
+* Discussed were flexsurv and maic extensions being common between companies
+* Bayesian curve extrapolation using spline incorporating (there is literature):
+    * General population for comparator
+    * Constraint prior
+    * Treatment arm and comparator should converge
+* Downstream is presenting these methods to users (e.g. Roche's TTLA app for RWD, NICE EHDEN shiny app for curve extrapolation)
+
+
 ## Actions 
