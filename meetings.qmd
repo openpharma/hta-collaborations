@@ -31,7 +31,7 @@ This meeting was hosted in person at Roche, Basel.
 
 ## Notes  
 
-AMNOG and  EU HTA joint clinical assessment in 2025
+AMNOG and EU HTA joint clinical assessment in 2025
 
 * requirements from AMNOG are detailed and specific, meaning differences between companies can be minimised
 * both Roche and Merck extract data into an internal 'analysis results dataset' (Roche from ADaMs and Merck from a source derived from ADaMs)
@@ -57,5 +57,8 @@ Methods
     * Treatment arm and comparator should converge
 * Downstream is presenting these methods to users (e.g. Roche's TTLA app for RWD, NICE EHDEN shiny app for curve extrapolation)
 
-
 ## Actions 
+
+- [ ] Rossella to make connections within Roche to Heidi and EU HTA team before following up directly with Merck on AMNOG and 2025 horizon in the EU
+- [ ] Daniel and Greg to explore HTA workstream, and fold methods discussions there
+- [ ] James to send out invites to re-group in new year
