@@ -6,7 +6,7 @@ This meeting was hosted in person at Roche, Basel.
 
 :::{.callout-note icon=false}
 
-## Attendees
+### Attendees
 
 * Adam Forys - Roche
 * James Black - Roche
@@ -18,7 +18,7 @@ This meeting was hosted in person at Roche, Basel.
 
 :::{.callout-tip icon=false}
 
-## Agenda
+### Agenda
 
 * 9am: Introductions 
 * ~9.40: Roche shares existing/proposed codebases
@@ -29,7 +29,7 @@ This meeting was hosted in person at Roche, Basel.
 
 :::
 
-## Notes  
+### Notes  
 
 AMNOG and EU HTA joint clinical assessment in 2025
 
@@ -57,7 +57,7 @@ Methods
     * Treatment arm and comparator should converge
 * Downstream is presenting these methods to users (e.g. Roche's TTLA app for RWD, NICE EHDEN shiny app for curve extrapolation)
 
-## Actions 
+### Actions 
 
 - [ ] Rossella to make connections within Roche to Heidi and EU HTA team before following up directly with Merck on AMNOG and 2025 horizon in the EU
 - [x] Daniel and Greg to explore HTA workstream, and fold methods discussions there
@@ -69,7 +69,7 @@ This meeting was hosted in person at Roche, Basel.
 
 :::{.callout-note icon=false}
 
-## Attendees
+### Attendees
 
 * James Black - Roche
 * Keovilay Chanthavinout
@@ -78,13 +78,13 @@ This meeting was hosted in person at Roche, Basel.
 
 :::{.callout-tip icon=false}
 
-## Agenda
+### Agenda
 
 * Discuss collaboration on preparing clinical trial data for use in HTA interactions
 
 :::
 
-## Notes  
+### Notes  
 
 As discussed as planned in the kick off, statistical collaboration has moved to a formal working group (under the [R-HTA](https://github.com/R-HTA) umbrella).
 
@@ -96,7 +96,7 @@ It was clear that the format of the Roche and Merck ARDs (and the CDISC proposed
 
 Discussion highlighted that if we could come up with an agreed ARD, Roche and Merck could build an end-to-end solution by later connecting our two efforts.
 
-## Actions 
+### Actions 
 
 - [ ] Follow up meeting to discuss what a simple, common, ARD could look like
 - [ ] James and Keo to review where the CDISC (too complicated?), tfrmt and tardis ARDs look like relative to Roche Heidi ARD
