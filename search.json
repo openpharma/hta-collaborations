@@ -11,41 +11,13 @@
     "href": "meetings.html#kick-off---2022-12-07",
     "title": "Meetings",
     "section": "Kick off - 2022-12-07",
-    "text": "Kick off - 2022-12-07\nThis meeting was hosted in person at Roche, Basel.\n\n\n\n\n\n\nAttendees\n\n\n\n\nAdam Forys - Roche\nJames Black - Roche\nDaniel Sabanes Bove - Roche\nRossella Belleli - Roche\nGregory Chen - MSD\nCedric Revil - MSD\n\n\n\n\n\n\n\n\n\nAgenda\n\n\n\n\n9am: Introductions\n~9.40: Roche shares existing/proposed codebases\n~10am: Merck shares existing/proposed codebases\n11am: Jamboard session to capture internal ongoing work and codebase gaps\n10:30am: Bio-break\n10:45-12: Finilise projects to follow through on, and project specific steps to take"
-  },
-  {
-    "objectID": "meetings.html#notes",
-    "href": "meetings.html#notes",
-    "title": "Meetings",
-    "section": "Notes",
-    "text": "Notes\nAMNOG and EU HTA joint clinical assessment in 2025\n\nrequirements from AMNOG are detailed and specific, meaning differences between companies can be minimised\nboth Roche and Merck extract data into an internal ‘analysis results dataset’ (Roche from ADaMs and Merck from a source derived from ADaMs)\nin an ideal world we could derive on demand from ADaM, but safer middle ground is to first work on the ARD model to remove risk of not being able to repoduce due to mismatch on method and data snapshot\nwould the CDISC ARD provide what’s needed as a common data model between companies? If so, an app could also be co-created for constructing reports.\n\nHE models\n\nCommon hope to move from VBA macro based excel, to R/Shiny to generate static excel docs\n\nEQ-5D\n\nOverlap in potential to collaborate on implementation of tariffs in R to prevent duplication\n\nMethods\n\nAgreement to apply to setup workstream under ASA WG for HTA relevant methods gaps\nDiscussed were flexsurv and maic extensions being common between companies\nBayesian curve extrapolation using spline incorporating (there is literature):\n\nGeneral population for comparator\nConstraint prior\nTreatment arm and comparator should converge\n\nDownstream is presenting these methods to users (e.g. Roche’s TTLA app for RWD, NICE EHDEN shiny app for curve extrapolation)"
-  },
-  {
-    "objectID": "meetings.html#actions",
-    "href": "meetings.html#actions",
-    "title": "Meetings",
-    "section": "Actions",
-    "text": "Actions\n\nRossella to make connections within Roche to Heidi and EU HTA team before following up directly with Merck on AMNOG and 2025 horizon in the EU\nDaniel and Greg to explore HTA workstream, and fold methods discussions there\nJames to send out invites to re-group in new year"
+    "text": "Kick off - 2022-12-07\nThis meeting was hosted in person at Roche, Basel.\n\n\n\n\n\n\nAttendees\n\n\n\n\nAdam Forys - Roche\nJames Black - Roche\nDaniel Sabanes Bove - Roche\nRossella Belleli - Roche\nGregory Chen - MSD\nCedric Revil - MSD\n\n\n\n\n\n\n\n\n\nAgenda\n\n\n\n\n9am: Introductions\n~9.40: Roche shares existing/proposed codebases\n~10am: Merck shares existing/proposed codebases\n11am: Jamboard session to capture internal ongoing work and codebase gaps\n10:30am: Bio-break\n10:45-12: Finilise projects to follow through on, and project specific steps to take\n\n\n\n\nNotes\nAMNOG and EU HTA joint clinical assessment in 2025\n\nrequirements from AMNOG are detailed and specific, meaning differences between companies can be minimised\nboth Roche and Merck extract data into an internal ‘analysis results dataset’ (Roche from ADaMs and Merck from a source derived from ADaMs)\nin an ideal world we could derive on demand from ADaM, but safer middle ground is to first work on the ARD model to remove risk of not being able to repoduce due to mismatch on method and data snapshot\nwould the CDISC ARD provide what’s needed as a common data model between companies? If so, an app could also be co-created for constructing reports.\n\nHE models\n\nCommon hope to move from VBA macro based excel, to R/Shiny to generate static excel docs\n\nEQ-5D\n\nOverlap in potential to collaborate on implementation of tariffs in R to prevent duplication\n\nMethods\n\nAgreement to apply to setup workstream under ASA WG for HTA relevant methods gaps\nDiscussed were flexsurv and maic extensions being common between companies\nBayesian curve extrapolation using spline incorporating (there is literature):\n\nGeneral population for comparator\nConstraint prior\nTreatment arm and comparator should converge\n\nDownstream is presenting these methods to users (e.g. Roche’s TTLA app for RWD, NICE EHDEN shiny app for curve extrapolation)\n\n\n\nActions\n\nRossella to make connections within Roche to Heidi and EU HTA team before following up directly with Merck on AMNOG and 2025 horizon in the EU\nDaniel and Greg to explore HTA workstream, and fold methods discussions there\nJames to send out invites to re-group in new year"
   },
   {
     "objectID": "meetings.html#march-2023",
     "href": "meetings.html#march-2023",
     "title": "Meetings",
     "section": "March 2023",
-    "text": "March 2023\nThis meeting was hosted in person at Roche, Basel.\n\n\n\n\n\n\nAttendees\n\n\n\n\nJames Black - Roche\nKeovilay Chanthavinout\nGregory Chen - MSD\n\n\n\n\n\n\n\n\n\nAgenda\n\n\n\n\nDiscuss collaboration on preparing clinical trial data for use in HTA interactions"
-  },
-  {
-    "objectID": "meetings.html#notes-1",
-    "href": "meetings.html#notes-1",
-    "title": "Meetings",
-    "section": "Notes",
-    "text": "Notes\nAs discussed as planned in the kick off, statistical collaboration has moved to a formal working group (under the R-HTA umbrella).\nThe discussion highlighted that Merck and Roche are currently focussed on different parts of the pipeline. Roche is focussed on the step of converting ADaMs to an ARD for later use in an HTA setting. Merck is focussed on starting at the ARD, and creating tools to explore and prepare insights.\nIt was clear that the format of the Roche and Merck ARDs (and the CDISC proposed ARD) are all vastly different.\n\n\n\nHTA Tools\n\n\nDiscussion highlighted that if we could come up with an agreed ARD, Roche and Merck could build an end-to-end solution by later connecting our two efforts."
-  },
-  {
-    "objectID": "meetings.html#actions-1",
-    "href": "meetings.html#actions-1",
-    "title": "Meetings",
-    "section": "Actions",
-    "text": "Actions\n\nFollow up meeting to discuss what a simple, common, ARD could look like\nJames and Keo to review where the CDISC (too complicated?), tfrmt and tardis ARDs look like relative to Roche Heidi ARD\nJames to chat to GSK, who are active discussing simpler ARD models\nKeo to check where Roche filters secondary groups (Meck does pre-compute, which speeds up scripts)"
+    "text": "March 2023\nThis meeting was hosted in person at Roche, Basel.\n\n\n\n\n\n\nAttendees\n\n\n\n\nJames Black - Roche\nKeovilay Chanthavinout\nGregory Chen - MSD\n\n\n\n\n\n\n\n\n\nAgenda\n\n\n\n\nDiscuss collaboration on preparing clinical trial data for use in HTA interactions\n\n\n\n\nNotes\nAs discussed as planned in the kick off, statistical collaboration has moved to a formal working group (under the R-HTA umbrella).\nThe discussion highlighted that Merck and Roche are currently focussed on different parts of the pipeline. Roche is focussed on the step of converting ADaMs to an ARD for later use in an HTA setting. Merck is focussed on starting at the ARD, and creating tools to explore and prepare insights.\nIt was clear that the format of the Roche and Merck ARDs (and the CDISC proposed ARD) are all vastly different.\n\n\n\nHTA Tools\n\n\nDiscussion highlighted that if we could come up with an agreed ARD, Roche and Merck could build an end-to-end solution by later connecting our two efforts.\n\n\nActions\n\nFollow up meeting to discuss what a simple, common, ARD could look like\nJames and Keo to review where the CDISC (too complicated?), tfrmt and tardis ARDs look like relative to Roche Heidi ARD\nJames to chat to GSK, who are active discussing simpler ARD models\nKeo to check where Roche filters secondary groups (Meck does pre-compute, which speeds up scripts)"
   }
 ]
