@@ -60,5 +60,46 @@ Methods
 ## Actions 
 
 - [ ] Rossella to make connections within Roche to Heidi and EU HTA team before following up directly with Merck on AMNOG and 2025 horizon in the EU
-- [ ] Daniel and Greg to explore HTA workstream, and fold methods discussions there
-- [ ] James to send out invites to re-group in new year
+- [x] Daniel and Greg to explore HTA workstream, and fold methods discussions there
+- [x] James to send out invites to re-group in new year
+
+## March 2023
+
+This meeting was hosted in person at Roche, Basel.
+
+:::{.callout-note icon=false}
+
+## Attendees
+
+* James Black - Roche
+* Keovilay Chanthavinout
+* Gregory Chen - MSD
+:::
+
+:::{.callout-tip icon=false}
+
+## Agenda
+
+* Discuss collaboration on preparing clinical trial data for use in HTA interactions
+
+:::
+
+## Notes  
+
+As discussed as planned in the kick off, statistical collaboration has moved to a formal working group (under the [R-HTA](https://github.com/R-HTA) umbrella).
+
+The discussion highlighted that Merck and Roche are currently focussed on different parts of the pipeline. Roche is focussed on the step of converting ADaMs to an ARD for later use in an HTA setting. Merck is focussed on starting at the ARD, and creating tools to explore and prepare insights. 
+
+It was clear that the format of the Roche and Merck ARDs (and the CDISC proposed ARD) are all vastly different. 
+
+![HTA Tools](https://user-images.githubusercontent.com/2760096/229129068-5a90fde2-dc5e-43bb-b467-60220780fefb.png)
+
+Discussion highlighted that if we could come up with an agreed ARD, Roche and Merck could build an end-to-end solution by later connecting our two efforts.
+
+## Actions 
+
+- [ ] Follow up meeting to discuss what a simple, common, ARD could look like
+- [ ] James and Keo to review where the CDISC (too complicated?), tfrmt and tardis ARDs look like relative to Roche Heidi ARD
+- [ ] James to chat to GSK, who are active discussing simpler ARD models
+- [ ] Keo to check where Roche filters secondary groups (Meck does pre-compute, which speeds up scripts)
+
